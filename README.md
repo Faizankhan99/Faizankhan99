@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://faizankhan99.github.io/](https://faizankhan99.github.io/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react redux javascript**
 
 - 📫 How to reach me **usmani.faizan98@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view](https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view)
 
-- ⚡ Fun fact **I am funny😊**
+- ⚡ Fun fact **Food and Music🎵 are the reasons to live😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
