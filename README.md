@@ -47,7 +47,7 @@
 
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizankhan99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="faizankhan99" /></p>
 
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
+
 
 
 
