@@ -1,7 +1,5 @@
 
 
-
-- 🌱 I’m currently learning backend
 <h1 align="center">Hi 👋, I'm Faizan Khan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
@@ -15,13 +13,19 @@
 
 <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 👨‍💻 All of my projects are available at https://faizankhan99.github.io
+- 👨‍💻 All of my projects are available at [Portfolio Website😊](https://faizankhan99.github.io)
 
-- 💬 Ask me about **react redux javascript**
+- 🌱 I’m currently learning **React Advanced**
+
+ - 🔭 Individual Project [Myntra-Clone ](https://github.com/Faizankhan99/used-lace-1162.git)
+
+- 👯 Group Project 1 [Sephora-Clone](https://github.com/UrsTrulyAditya/Sephora-Clone.git)
+
+- 💬 Ask me about **Fronted**
 
 - 📫 How to reach me **usmani.faizan98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view](https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view)
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live😊**
 
