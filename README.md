@@ -17,7 +17,8 @@
 
 <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 👨‍💻 All of my projects are available at [Portfolio Website😊](https://faizankhan99.github.io)
+### 🌱 I’m from Gwalior, M.p, India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29">.
+- 👨‍💻 All of my projects are available at [Portfolio 😊](https://faizankhan99.github.io)
 
 - 🌱 I’m currently learning **React Advanced**
 
@@ -29,7 +30,7 @@
 
 - 📫 How to reach me **usmani.faizan98@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view)
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live😊**
 
