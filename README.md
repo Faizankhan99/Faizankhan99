@@ -41,7 +41,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 📫 How to reach me **usmani.faizan98@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/12Gd7HGtrqxOvIYEdPkASSUA4ZEc38R8Q/view)
+- 📄 Know about my experiences [RESUME]()
 
 - ⚡ Fun fact **Food and Music🎵 are the reasons to live😊**
 
